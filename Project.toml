@@ -17,6 +17,7 @@ Multisets = "3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 BayesNets = "3.5.2"
@@ -28,3 +29,4 @@ Distributions = "0.25.119"
 Random = "1.11.0"
 Serialization = "1.11.0"
 Statistics = "1.11.1"
+StatsBase = "0.33.21"
